@@ -2,6 +2,8 @@
 
 파이썬 코드를 이용하여 숫자 야구를 구현
 
+https://colab.research.google.com/drive/1FHNsfnOuPqh7opbxQ6QFZ4KbQLPAHyA5
+
 ## 주요 기능
 * 난이도를 선택하여 원하는 난이도로 도전 가능
 
